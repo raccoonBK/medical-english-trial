@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "医语公开试学",
+    "slug": "medical-english-public-trial",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png",
+      "name": "医语公开试学",
+      "shortName": "医语试学",
+      "themeColor": "#176B59",
+      "backgroundColor": "#F6F4ED"
+    },
+    "experiments": {
+      "baseUrl": "/medical-english-trial"
+    }
+  }
+}
