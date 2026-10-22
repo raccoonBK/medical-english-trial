@@ -28,9 +28,9 @@ const CARDS = [
   {
     term: 'tachycardia',
     meaning: '心动过速',
-    note: '术语提示心率偏快，不单独构成诊断。',
-    patient: 'My heart feels like it is beating very fast.',
-    patientChinese: '我觉得心跳很快。',
+    note: '心动过速需结合年龄、测量条件与临床情境判断。',
+    patient: 'The nurse measured my resting pulse at 118 beats per minute.',
+    patientChinese: '护士测得我静息时每分钟心跳 118 次。',
     exam: 'The record describes a fast heart rate as ____.',
   },
 ];
