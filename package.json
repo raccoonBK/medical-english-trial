@@ -4,7 +4,7 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "build": "expo export --platform web --output-dir dist && node prepare-pages.cjs"
+    "build": "expo export --platform web --output-dir dist && node prepare-pages.cjs && node verify-build.cjs"
   },
   "dependencies": {
     "expo": "~57.0.26",
